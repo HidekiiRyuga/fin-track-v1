@@ -1,3 +1,9 @@
+/**
+ * FinTrack Application Entry Point
+ * * This component serves as the high-level orchestrator, wrapping the 
+ * application in the GlobalProvider to ensure atomic state access 
+ * across the dashboard and transaction engine.
+ */
 import React, { useContext } from 'react';
 import { GlobalProvider } from './context/GlobalState';
 import { AppLayout } from './components/layout';
