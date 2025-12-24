@@ -70,4 +70,4 @@ fin-track-v1/
 
 ## 📝 Author
 
-Designed and engineered by **Stuti**. Focused on scalable frontend systems, intuitive state management, and high-fidelity UI/UX.
+Designed and engineered by **Stuti**. Focused on scalable frontend systems, intuitive state management, and high-fidelity  UI/UX.
